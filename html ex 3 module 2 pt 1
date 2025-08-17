@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Questa è l'intestazione del browser</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+<body>
+      <h1>Le canzoni che guardo</h1>
+      <p> </p>
+      
+    <ull>
+        <li>jax toy</li>
+        <li>play my way encore</li>
+        <li>good enough</li>
+        <li>why most we do</li>
+        <li>don't listen encore</li>
+        <li>digital hallucination</li>
+        <li>wacky word remix</li>
+        <li>happy place</li>
+        <li>a little bit bad</li>
+        <li>batty 4 you</li>
+    </ul>
+
+    <ol>
+        <li>don't listen encore è stata la mia prima canzone che ho ascoltato</li>
+        <li>play my way e good enough sono le mie preferite</li>
+        <li>batty 4 you è stata l'ultima canzone che ho ascoltato fino ad ora</li>
+    </ol>
+
+    <img src="jax.jpeg" alt="immagine di esempio">
+    <img src="play my way encore video.png" alt="immagine di esempio">
+    <img src="good enough.png" alt="immagine di esempio">
+    <img src="why most we do.png" alt="immagine di esempio">
+    <img src="don't listen encore.png" alt="immagine di esempio">
+    <img src="digital hallucination.png" alt="immagine di esempio">
+    <img src="wacky world remix.png" alt="immagine di esempio">
+    <img src="happy place.png" alt="immagine di esempio">
+    <img src="a little bit bad.png" alt="immagine di esempio">
+    <img src="batty 4 you.png" alt="immagine di esempio">
+
+    <h2>PREVISIONI METEO</h2>
+    <img src="previsioni meteo.png" alt="immagine di esempio">
+ </body>
+
+
+</html>
